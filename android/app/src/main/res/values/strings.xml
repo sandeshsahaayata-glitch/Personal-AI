@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_service_desc">JARVIS Autonomous Engine for executing voice-controlled tasks, WhatsApp messaging, and screen automation.</string>
+</resources>
